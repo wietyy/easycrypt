@@ -1,15 +1,7 @@
 # easycrypt
 
-To install dependencies:
+The easiest damn encryption library in history. It's so easy it doesnt even need a README, but here is this pile of crap anyways.
 
-```bash
-bun install
+```shell
+$ npm install @wietyy/easycrypt
 ```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.4.2. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
