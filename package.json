@@ -12,6 +12,5 @@
     "build": "bun build ./src/index.ts --outdir ./dist --sourcemap=external"
   },
   "dependencies": {
-    "npm": "^12.2.0"
   }
 }
